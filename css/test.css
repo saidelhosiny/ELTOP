@@ -1,0 +1,129 @@
+header{
+    background-image: url(../Image/events-heavenly-header.jpg);
+    background-size: 100% 100% ;
+}
+h1{
+    font-size: 4rem;
+}
+.layer{
+    background-color: rgba(255, 0, 0, 0.342);
+    
+}
+
+
+.option h6{
+    width: 30px;
+    height: 3px;
+    background-color: white;
+}
+
+.option{
+left: 18%;
+top: 55%;
+cursor: pointer;
+}
+.parent_ancor{
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #414658;
+
+}
+.parent_ancor i{
+    display: flex;
+    justify-content: end;
+}
+.parent_ancor i{
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    -o-transition: 0.5s all;
+}
+.parent_ancor i:hover{
+    color: #7D3C49;
+}
+.ancor a{
+    text-decoration: none;
+    color: white;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    -o-transition: 0.5s all;
+}
+.ancor a:hover{
+    color: #7D3C49;
+}
+
+.section1{
+    width: 50%;
+  
+    margin: auto;
+}
+.section1 h3{
+    color: white;
+}
+.introo{
+    background-color: #e68285;
+    cursor: pointer;
+}
+
+.section2{
+    background-image: url(../Image/invitation-2508607__340.jpg);
+    background-size: 100% 100%;
+}
+.parentday{
+    background-color:hwb(0 24% 11% / 0.877);
+}
+.day{
+    padding: 50px;
+    border: 2px solid white;
+}
+.section3 p{
+    color: #999999;
+    text-align: center;
+
+}
+.section3 h2{
+  font-weight: 700;
+}
+.div_icons div{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div_icons i{
+    color: #999999;
+    border: 1px solid #999999 ;
+    padding: 15px;
+}
+.div_icons i:hover{
+    color: white;
+    background-color: #D62E33; 
+}
+.div_input input{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    color: #999999;
+    
+}
+.div_input textarea{
+    width: 100%;
+    outline: none;
+}
+.p1{
+    text-align: center;
+    background-color: #cccccc;
+}
+.p2,.p3,.p4{
+    display: none;
+    text-align: center;
+    background-color: #cccccc;
+   
+}
+
+
